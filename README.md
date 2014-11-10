@@ -31,3 +31,11 @@ Clean code:
 * Put different concerns in modules
 * Loosely couple server and route by injecting dependency
 
+
+## Further Reading
+
+* [Understanding NodeJS](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
+
+* [Injection Dependency](http://martinfowler.com/articles/injection.html)
+
+* [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.co.uk/2006/03/execution-in-kingdom-of-nouns.html)
