@@ -29,5 +29,5 @@ What does the application need to consist of?
 Clean code:
 
 * Put different concerns in modules
-
+* Loosely couple server and route by injecting dependency
 
